@@ -1,0 +1,39 @@
+body{
+    background-color:aliceblue;
+}
+
+h1{
+    color: black;
+    font-family:verdana;
+    font-size:20px;
+}
+h2{
+    color: blue;
+    font-family:verdana;
+    font-size:20px;
+}
+
+h3{
+    color:burlywood;
+    font-family:verdana;
+    font-size:20px;
+}
+
+h4{
+    color: blueviolet;
+    font-family:verdana;
+    font-size:20px;
+}
+
+ul{
+    color: yellowgreen;
+    font-family:verdana;
+    font-size:20px;
+}
+
+ol{
+    color: royalblue;
+    font-family:verdana;
+    font-size:20px;
+}
+
